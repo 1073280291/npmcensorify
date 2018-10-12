@@ -1,0 +1,13 @@
+{
+    "author": "orr",
+    "name": "censorify",
+    "version": "0.0.1",
+    "description": "the test",
+    "main": "censortext",
+    "dependencies": {
+        
+    },
+    "engines": {
+        "node":"*"
+    }
+}
