@@ -1,0 +1,2 @@
+# npmcensorify
+npm
